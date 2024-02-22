@@ -5,7 +5,7 @@ pcc-cse653 i.e python lab, all the codes for given assignments in lab will be up
 Commands to execute a py file within SSH SECURE SHELL:
 
 1. crtl+x (to save the file)
-2. yes/no -> yes -> enter
+2. yes/no? -> yes -> enter
 3. python3 program_file.py
 
 
