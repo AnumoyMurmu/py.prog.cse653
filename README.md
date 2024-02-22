@@ -10,7 +10,7 @@ Commands to execute a py file within SSH SECURE SHELL:
 
 
 
-Commands to access your repo with SSH SECURE SHELL:
+Commands to access your repo within SSH SECURE SHELL:
 
 1. cd repo_name (if repo exists) else mkdir repo_name (to create new repo)
 
