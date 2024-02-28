@@ -1,4 +1,4 @@
-#quadrict formula 
+#quadratic formula 
 
 import cmath
 a=int(input("Enter a:"))
